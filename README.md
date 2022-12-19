@@ -8,7 +8,7 @@ A website to see an overview of your favorite movies
 To run a local Movies App development server and open in your browser.
 
 #### API documentation: 
-For api backend, used axios-mock-adapter to make a fake db
+For the api backend use axios-mock-adapter to create a fake db
 See data here: [src/@mock/data](https://github.com/abdulhadiahad96/movies/tree/master/src/@mock/data)
 
 ## Installation
