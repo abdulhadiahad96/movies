@@ -2,7 +2,7 @@
 A website to see an overview of your favorite movies
 
 ## Documentation
-To run a local Movies App development server and open in your browser.
+Run a local Movies App development server and open in your browser.
 
 #### API documentation: 
 For the api backend use axios-mock-adapter to create a fake db
