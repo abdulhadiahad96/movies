@@ -18,7 +18,7 @@ store.dispatch('movies/getRecomendationMovies').then(resp => recomendations.valu
 <template>
   <Layout>
     <div v-if="movie" class="app-detail w-full">
-      <div class="wallpaper z-0 absolute top-0 left-0 right-0 h-56">
+      <div class="wallpaper z-0 absolute top-0 left-0 right-0 max-h-screen overflow-y-hidden">
         <img :src="movie.wallpaper" class="w-full opacity-30" alt="Wallpaper">
       </div>
       <div class="z-10 relative left-0 right-0">
