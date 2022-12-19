@@ -9,7 +9,7 @@ To run a local Movies App development server and open in your browser.
 
 #### API documentation: 
 For api backend, used axios-mock-adapter to make a fake db
-See data here: [src/@mock/data](https://github.com/abdulhadiahad96/movies/blob/master/src/@mock/data)
+See data here: [src/@mock/data](https://github.com/abdulhadiahad96/movies/tree/master/src/@mock/data)
 
 ## Installation
 #### Step 1. Clone repo
